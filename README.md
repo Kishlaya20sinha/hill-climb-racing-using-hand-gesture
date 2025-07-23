@@ -11,7 +11,7 @@
 
 ## 📌 Project Overview
 
-Control games like **Hill Climb Racing** using your **hand gestures** detected via your **webcam**!  
+Control games like **Hill Bike Racing** using your **hand gestures** detected via your **webcam**!  
 The system simulates **keyboard presses** based on how many fingers you raise, creating an intuitive and hands-free gaming experience. 👋🕹️
 
 ---

@@ -90,7 +90,7 @@ while cap.isOpened():
                 cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 0), 2)
 
     # Show image
-    cv2.imshow("Gesture-Controlled Hill Climb Racing", image)
+    cv2.imshow("Gesture-Controlled Hill Bike Racing", image)
 
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
